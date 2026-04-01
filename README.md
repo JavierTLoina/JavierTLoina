@@ -20,6 +20,13 @@
 ---
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,py,java,dotnet,nodejs,express,react,docker,git,visualstudio,c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,py,java,dotnet,nodejs,express,react,docker,git,visualstudio,c,scikitlearn,numpy-original.svg" />
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 </p>
