@@ -47,7 +47,7 @@
 ### 🏆 GitHub Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-bg=true&no-frame=true&column=7](https://github.com/users/JavierTLoina/achievements/pull-shark)" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JavierTLoina&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
   </a>
 </p>
 
