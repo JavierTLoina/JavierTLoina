@@ -10,9 +10,8 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-```diff
 + Passionate about building scalable applications
 + Focused on clean architecture and performance
 + Interested in Data Science and backend systems
