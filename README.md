@@ -17,7 +17,7 @@
 </p>
 
 #### 📊 Data Science & Databases
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,matp,sql,postgres" />
   </a>
