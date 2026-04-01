@@ -1,35 +1,36 @@
-# <sub style="font-size: 0.8em;">Análisis de Algoritmos de Ordenamiento</sub>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="URL_DE_TU_LOGO_CLARO">
-    <source media="(prefers-color-scheme: light)" srcset="URL_DE_TU_LOGO_ACTUAL">
-    <img alt="Logo del Proyecto" src="URL_DE_TU_LOGO_ACTUAL" width="180">
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Javier%20Tejeda%20L.&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Explorer%20%7C%20Creative%20Coder&descAlignY=55&descSize=18&descColor=ffffff" />
+    
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0eafc,50:cfdef3,100:f5f7fa&height=260&section=header&text=Javier%20Tejeda%20L.&fontSize=70&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Explorer%20%7C%20Creative%20Coder&descAlignY=55&descSize=18&descColor=000000" />
+    
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Javier%20Tejeda%20L." />
   </picture>
 </p>
 
 ---
 
-## <sub>Descripción del proyecto</sub>
-<small>
-Este repositorio contiene una comparativa técnica sobre la eficiencia de distintos algoritmos de ordenamiento. Se evalúa el rendimiento mediante el análisis de tiempos de ejecución aplicados a diversos conjuntos de datos.
-</small>
-
-### <sub>Metodología y Resultados</sub>
-<small>
-El proceso consiste en la ejecución de pruebas sobre arreglos de datos de diferentes tamaños y estados iniciales (aleatorios, ordenados e inversos).
-</small>
-
-| Caso de Prueba | Algoritmo | Tiempo |
-| :--- | :--- | :--- |
-| <small>reversed50000</small> | <small>Merge Sort</small> | <small>0.600s</small> |
-| <small>random50000</small> | <small>Selection Sort</small> | <small>...</small> |
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=900&color=808080&center=true&vCenter=true&width=800&lines=Fullstack+Developer;React+Node+.NET+Python;Building+Scalable+Applications;Data+Science+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## <sub>Algoritmos analizados</sub>
-* <small>Bubble Sort</small>
-* <small>Merge Sort</small>
-* <small>Selection Sort</small>
+## About Me
+
+- Passionate about building scalable applications  
+- Focused on clean architecture and performance  
+- Interested in Data Science and backend systems  
+- Constantly learning and improving  
 
 ---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,py,java,dotnet,nodejs,express,react,docker,git,visualstudio,c" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+
+</p>
