@@ -1,19 +1,11 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Javier%20Tejeda%20L.&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Explorer%20%7C%20Creative%20Coder&descAlignY=55&descSize=16&descColor=ffffff" />
-    
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0eafc,50:cfdef3,100:f5f7fa&height=240&section=header&text=Javier%20Tejeda%20L.&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Explorer%20%7C%20Creative%20Coder&descAlignY=55&descSize=16&descColor=000000" />
-    
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Javier%20Tejeda%20L." />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:6366f1&height=240&section=header&text=Javier%20Tejeda%20L.&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Explorer%20%7C%20Creative%20Coder&descAlignY=55&descSize=16&descColor=e5e7eb" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=808080&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+Node+.NET+Python;Building+Scalable+Applications;Data+Science+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+Node+.NET+Python;Building+Scalable+Applications;Data+Science+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
