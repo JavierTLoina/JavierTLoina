@@ -12,11 +12,6 @@
 #### ⚙️ Backend & Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,python,c" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,dotnet,nodejs,express,python,c" />
   </a>
 </p>
