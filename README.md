@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Javier%20Tejeda%20L.&fontSize=60&animation=fadeIn" />
+</p>
+
 # Hi there, I'm Javier Tejeda L. 👋
 
 ### 🛠 Tech Stack & Tools
