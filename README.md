@@ -15,7 +15,8 @@
 - Passionate about building scalable applications  
 - Focused on clean architecture and performance  
 - Interested in Data Science and backend systems  
-- Constantly learning and improving  
+- Constantly learning and improving
+- data enginner
 
 ---
 
