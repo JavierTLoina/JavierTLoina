@@ -7,7 +7,9 @@
 ### 🚀 About Me
 - 💻 **Passionate about:** Scalable systems, data exploration, and clean, efficient code.
 - ⚡ **Mindset:** If a challenge is a 3.6/10, I'm looking for the 10/10.
-- 📫 **Contact:** Tejedajavier063@gmail.com
+- 📫 **Contact:** <a href="mailto:TU_CORREO@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 ---
 
