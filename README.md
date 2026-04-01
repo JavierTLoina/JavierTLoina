@@ -5,10 +5,7 @@
 </p>
 
 ### 🚀 About Me
-- 🎓 **Currently:** Conquering CS50x (Harvard University).
-- 💻 **Passionate about:** Algorithm efficiency and clean code.
-- ⚡ **Fact:** Runoff is a 3.6/10 in difficulty for me.
-- 📫 **Contact:** [Tu Email Here]
+- 📫 **Contact:** Tejedajavier063@gmail.com
 
 ---
 
