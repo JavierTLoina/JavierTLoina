@@ -19,9 +19,9 @@
 #### 📊 Data Science & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy,py,sql,postgres" />
+    <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,matp,sql,postgres" />
   </a>
-  </p>
+</p>
 
 #### 🐳 Infrastructure & DevTools
 <p align="left">
