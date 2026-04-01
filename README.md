@@ -20,9 +20,8 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,py,java,dotnet,nodejs,express,react,docker,git,visualstudio,c" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,py,java,dotnet,nodejs,express,react,docker,git,visualstudio,c,scikitlearn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
 </p>
 
 ---
