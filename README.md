@@ -5,14 +5,39 @@
 </p>
 
 ### 🚀 About Me
+- 💻 **Passionate about:** Scalable systems, data exploration, and clean, efficient code.
+- ⚡ **Mindset:** If a challenge is a 3.6/10, I'm looking for the 10/10.
 - 📫 **Contact:** Tejedajavier063@gmail.com
 
 ---
 
 ### 🛠 Tech Stack & Tools
+
+#### 🌐 Frontend & Styling
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,html,css,git,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,ts,js" />
+  </a>
+</p>
+
+#### ⚙️ Backend & Systems
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,python,c" />
+  </a>
+</p>
+
+#### 📊 Data Science & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=numpy,py,sql,postgres" />
+  </a>
+  </p>
+
+#### 🐳 Infrastructure & DevTools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
   </a>
 </p>
 
