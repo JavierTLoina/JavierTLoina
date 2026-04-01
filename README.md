@@ -1,42 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=220&section=header&text=Javier%20Tejeda%20L.&fontSize=70&animation=twinkling&fontAlignY=35" />
-</p>
-
-### 🛠 Tech Stack & Tools
-
-#### 🌐 Frontend & Styling
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,ts,js" />
-  </a>
-</p>
-
-#### ⚙️ Backend & Systems
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,nodejs,express,python,c" />
-  </a>
-</p>
-
-#### 📊 Data Science & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,matp,sql,postgres" />
-  </a>
-</p>
-
-#### 🐳 Infrastructure & DevTools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=260&section=header&text=Javier%20Tejeda%20L.&fontSize=70&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Explorer%20%7C%20Creative%20Coder&descAlignY=55&descSize=18"/>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=🚀+Fullstack+Developer;⚡+React+%7C+Node+%7C+.NET;📊+Data+Science+Lover;🎸+Guitarist+%2B+Creative+Mind;🔥+Always+Learning+New+Tech" />
 </p>
 
+---
+
+## 🧠 About Me
+
+```diff
++ Passionate about building cool things
++ Love mixing code + creativity
++ Into Data Science & clean UI
++ Guitar player 🎸 with dev mindset
