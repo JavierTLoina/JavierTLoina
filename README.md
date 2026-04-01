@@ -1,16 +1,8 @@
 # Hi there, I'm Javier Tejeda L. 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="Javier Tejeda" />
-</p>
-
 ### 🚀 About Me
 - 💻 **Passionate about:** Scalable systems, data exploration, and clean, efficient code.
 - ⚡ **Mindset:** If a challenge is a 3.6/10, I'm looking for the 10/10.
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
----
 
 ### 🛠 Tech Stack & Tools
 
