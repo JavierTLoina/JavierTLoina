@@ -16,7 +16,6 @@
 - Focused on clean architecture and performance  
 - Interested in Data Science and backend systems  
 - Constantly learning and improving
-- data enginner
 
 ---
 
