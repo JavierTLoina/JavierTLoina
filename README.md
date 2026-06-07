@@ -1,78 +1,85 @@
-# Javier Tejeda L.
-
-Fullstack Developer | Software Engineer | Data Explorer
-
----
-
-## About Me
-
-- Fullstack developer focused on scalable applications  
-- Passionate about clean architecture and system design  
-- Interested in backend, frontend and data-driven systems  
-- Constantly learning and improving development practices  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF7E5F,FEB47B,86A8E7,91EAE4&height=240&text=Javier%20Tejeda%20L.&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Software%20Engineer%20%7C%20Data%20Explorer&descAlignY=60" />
+</p>
 
 ---
 
-## Tech Stack
-
-- JavaScript / TypeScript  
-- React  
-- Node.js / Express  
-- .NET  
-- Python  
-- Java  
-- HTML / CSS / Tailwind  
-- SQL (MySQL / PostgreSQL / SQL Server)  
-- Docker  
-- Git  
-- PHP / WordPress  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=800&lines=Fullstack+Developer;React+%7C+Node.js+%7C+.NET+%7C+Python;Building+scalable+and+clean+architectures;Data+Science+Enthusiast;Always+learning+new+things" />
+</p>
 
 ---
 
-## GitHub Stats
+## 🧠 About Me
 
-GitHub stats and activity can be viewed directly on my profile.
-
----
-
-## Contributions
-
-Active learner and contributor in personal and academic projects, including:
-
-- Fullstack web applications  
-- Data analysis projects in Python  
-- API development and backend systems  
-- UI/UX experiments with modern frameworks  
+- Passionate about building scalable applications  
+- Focused on clean architecture and performance  
+- Interested in both frontend and backend systems  
+- Always improving and learning new technologies  
 
 ---
 
-## Featured Projects
+## ⚙️ Tech Stack
 
-### Sentinel System
-Fullstack system built with layered architecture (MVC + Onion Architecture).  
-Focus on scalability, authentication and structured backend design.
-
-### DailySun App
-Simple application that displays daily sunset images using public APIs.  
-Focus on clean UI and API integration.
-
-### Olympic Data Analysis
-Data analysis project using Python (Pandas, visualization tools).  
-Exploratory analysis of Olympic medal datasets.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,dotnet,python,java,html,css,tailwind,sass,git,docker,php,wordpress,mysql,postgres,c" />
+</p>
 
 ---
 
-## Goals
+## 📊 GitHub Stats
 
-- Improve system design skills  
-- Build production-level SaaS projects  
-- Deepen cloud and backend architecture knowledge  
-- Keep building things that actually solve problems  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierTLoina&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JavierTLoina&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierTLoina&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## Contact
+## 📈 Contributions
 
-GitHub: JavierTLoina  
-Email: your.email@example.com  
-LinkedIn: (add your link here)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavierTLoina&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Sentinel System
+Fullstack application built with **MVC + Onion Architecture**  
+Focused on scalability, clean structure and maintainability  
+Tech: React, .NET, SQL Server  
+
+---
+
+### 🔹 DailySun App
+App that displays daily sunset images using public APIs  
+Clean UI, API integration, lightweight architecture  
+
+---
+
+### 🔹 Olympic Data Analysis
+Python project for exploratory data analysis  
+Pandas, Seaborn, Matplotlib, data storytelling  
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-ff6b6b?style=for-the-badge&logo=hacktoberfest" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-4dabf7?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: JavierTLoina  
+- Email: your.email@example.com  
+- LinkedIn: add-your-link-here
