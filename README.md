@@ -16,16 +16,20 @@
 
 ---
 
-## 🏆 Badges & Achievements
+## 🏆 Badges
 <p align="center">
-  <img src="URL_DE_TU_INSIGNIA_1" width="120" />
-  <img src="URL_DE_TU_INSIGNIA_2" width="120" />
-  <img src="URL_DE_TU_INSIGNIA_3" width="120" />
-  <img src="URL_DE_TU_INSIGNIA_4" width="120" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-2026-blueviolet?style=for-the-badge&logo=hacktoberfest" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierTLoina&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=JavierTLoina&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierTLoina&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
