@@ -1,47 +1,78 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF7E5F,FEB47B,86A8E7,91EAE4&height=250&text=Javier%20Tejeda%20L.&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Data%20Explorer%20%7C%20Creative%20Coder&descAlignY=60" />
-</p>
+# Javier Tejeda L.
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+Node+.NET+Python;Building+Scalable+Applications;Data+Science+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+Fullstack Developer | Software Engineer | Data Explorer
 
 ---
 
 ## About Me
-- Passionate about building scalable applications  
-- Focused on clean architecture and performance  
-- Interested in Front End and backend systems  
-- Constantly learning and improving in Code
+
+- Fullstack developer focused on scalable applications  
+- Passionate about clean architecture and system design  
+- Interested in backend, frontend and data-driven systems  
+- Constantly learning and improving development practices  
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,nodejs,express,react,php,wordpress,docker,git,py,scikitlearn,dotnet,java,visualstudio,c" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-</p>
+## Tech Stack
+
+- JavaScript / TypeScript  
+- React  
+- Node.js / Express  
+- .NET  
+- Python  
+- Java  
+- HTML / CSS / Tailwind  
+- SQL (MySQL / PostgreSQL / SQL Server)  
+- Docker  
+- Git  
+- PHP / WordPress  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierTLoina&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=JavierTLoina&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierTLoina&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+GitHub stats and activity can be viewed directly on my profile.
 
 ---
 
-## 🏆 Hacktoberfest 2026
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2026-blueviolet?style=for-the-badge&logo=hacktoberfest" />
-</p>
+## Contributions
 
-<p align="center">
-  <img src="./827f3f74-1153-11ee-b7d7-7bfaa6753327.svg" width="200" />
-</p>
+Active learner and contributor in personal and academic projects, including:
+
+- Fullstack web applications  
+- Data analysis projects in Python  
+- API development and backend systems  
+- UI/UX experiments with modern frameworks  
+
+---
+
+## Featured Projects
+
+### Sentinel System
+Fullstack system built with layered architecture (MVC + Onion Architecture).  
+Focus on scalability, authentication and structured backend design.
+
+### DailySun App
+Simple application that displays daily sunset images using public APIs.  
+Focus on clean UI and API integration.
+
+### Olympic Data Analysis
+Data analysis project using Python (Pandas, visualization tools).  
+Exploratory analysis of Olympic medal datasets.
+
+---
+
+## Goals
+
+- Improve system design skills  
+- Build production-level SaaS projects  
+- Deepen cloud and backend architecture knowledge  
+- Keep building things that actually solve problems  
+
+---
+
+## Contact
+
+GitHub: JavierTLoina  
+Email: your.email@example.com  
+LinkedIn: (add your link here)
