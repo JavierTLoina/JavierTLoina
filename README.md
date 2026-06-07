@@ -5,12 +5,12 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+Node+.NET+Python;Building+Scalable+Applications;Data+Science+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=800&lines=Fullstack+Developer;React+%7C+Node+%7C+.NET+%7C+Python;Clean+Architecture+Enthusiast;Building+Scalable+Systems;Always+Learning+and+Improving" />
 </p>
 
 ---
 
-<!-- 🐍 ANIMACIÓN MODERNA MÁS USADA -->
+<!-- 🐍 SOLO ANIMACIÓN REALMENTE USADA HOY -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -21,12 +21,12 @@
 
 - Passionate about building scalable applications  
 - Focused on clean architecture and performance  
-- Interested in Front End and backend systems  
-- Constantly learning and improving in Code  
+- Interested in frontend and backend systems  
+- Constantly learning and improving in code  
 
 ---
 
----
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,nodejs,express,react,php,wordpress,docker,git,py,scikitlearn,dotnet,java,visualstudio,c" />
@@ -35,12 +35,7 @@
 
 ---
 
-<!-- 📊 ACTIVITY GRAPH MODERNO -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavierTLoina&theme=tokyo-night&hide_border=true" />
-</p>
-
----
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=JavierTLoina&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
