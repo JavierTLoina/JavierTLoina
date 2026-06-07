@@ -1,85 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF7E5F,FEB47B,86A8E7,91EAE4&height=240&text=Javier%20Tejeda%20L.&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Software%20Engineer%20%7C%20Data%20Explorer&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:6366f1&height=280&section=header&text=Javier%20Tejeda%20L.&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Explorer%20%7C%20Creative%20Coder&descAlignY=55&descSize=16&descColor=e5e7eb" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=800&lines=Fullstack+Developer;React+%7C+Node.js+%7C+.NET+%7C+Python;Building+scalable+and+clean+architectures;Data+Science+Enthusiast;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+Node+.NET+Python;Building+Scalable+Applications;Data+Science+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- Passionate about building scalable applications  
-- Focused on clean architecture and performance  
-- Interested in both frontend and backend systems  
-- Always improving and learning new technologies  
+- Passionate about building scalable applications  
+- Focused on clean architecture and performance  
+- Interested in Front End and backend systems  
+- Constantly learning and improving in Code
 
 ---
 
-## ⚙️ Tech Stack
+---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,nodejs,express,react,php,wordpress,docker,git,py,scikitlearn,dotnet,java,visualstudio,c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,dotnet,python,java,html,css,tailwind,sass,git,docker,php,wordpress,mysql,postgres,c" />
+  <img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierTLoina&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JavierTLoina&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierTLoina&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavierTLoina&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Sentinel System
-Fullstack application built with **MVC + Onion Architecture**  
-Focused on scalability, clean structure and maintainability  
-Tech: React, .NET, SQL Server  
-
----
-
-### 🔹 DailySun App
-App that displays daily sunset images using public APIs  
-Clean UI, API integration, lightweight architecture  
-
----
-
-### 🔹 Olympic Data Analysis
-Python project for exploratory data analysis  
-Pandas, Seaborn, Matplotlib, data storytelling  
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-ff6b6b?style=for-the-badge&logo=hacktoberfest" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-4dabf7?style=for-the-badge&logo=github" />
-</p>
-
----
-
-## 📫 Contact
-
-- GitHub: JavierTLoina  
-- Email: your.email@example.com  
-- LinkedIn: add-your-link-here
+ me lo agregas jeje y me agregas este lootie C:\Users\wandy\Downloads\Practicandp\frontend\827f3f74-1153-11ee-b7d7-7bfaa6753327.svg 
