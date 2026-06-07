@@ -10,7 +10,7 @@
 
 ---
 
-<!-- ✨ ANIMACIÓN MODERNA AÑADIDA (snake commits) -->
+<!-- 🐍 ANIMACIÓN MODERNA MÁS USADA -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -35,7 +35,13 @@
 
 ---
 
+<!-- 📊 ACTIVITY GRAPH MODERNO -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavierTLoina&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=JavierTLoina&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+</p>
