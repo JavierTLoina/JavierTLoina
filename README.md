@@ -11,25 +11,25 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,nodejs,express,react,docker,git,py,dotnet,c" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,nodejs,express,react,php,wordpress,docker,git,py,scikitlearn,dotnet,java,visualstudio,c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
 </p>
 
 ---
 
-## 🏆 Badges
+## 📊 My Contributions
+<!-- El gráfico de contribuciones aparece automáticamente aquí abajo en tu perfil de GitHub -->
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=JavierTLoina&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a)
+
+---
+
+## 🏆 Hacktoberfest 2026
 <p align="center">
   <img src="https://img.shields.io/badge/Hacktoberfest-2026-blueviolet?style=for-the-badge&logo=hacktoberfest" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierTLoina&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=JavierTLoina&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierTLoina&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./827f3f74-1153-11ee-b7d7-7bfaa6753327.svg" width="200" />
 </p>
