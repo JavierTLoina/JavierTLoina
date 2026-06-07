@@ -14,12 +14,11 @@
 
 - Passionate about building scalable applications  
 - Focused on clean architecture and performance  
-- Interested in Data Science and backend systems  
+- Interested in Front End and backend systems  
 - Constantly learning and improving in Code
 
 ---
 
----
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,nodejs,express,react,php,wordpress,docker,git,py,scikitlearn,dotnet,java,visualstudio,c" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
@@ -27,6 +26,16 @@
 
 ---
 
+### Hacktoberfest 2026
+¡Orgulloso colaborador del Open Source!  
+[![Hacktoberfest 2026](https://img.shields.io/badge/Hacktoberfest-2026-blueviolet?style=for-the-badge&logo=hacktoberfest)](https://github.com/fineanmol/Hacktoberfest2026/pull/8829)
+
+---
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+  <img src="https://streak-stats.demolab.com?user=JavierTLoina&theme=tokyonight&hide_border=true&border_radius=10&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+</p>
+
+<p align="center">
+  <img src="./assets/827f3f74-1153-11ee-b7d7-7bfaa6753327.svg" width="200" />
 </p>
